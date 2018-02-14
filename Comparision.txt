@@ -1,0 +1,234 @@
+﻿Query by Query Comparision
+
+
+Lucene ranking combines Boolean model (BM) of Information Retrieval with Vector Space Model (VSM) of Information Retrieval
+Where Simlarity measure used is cosine-similarity
+score(q,d)   =   coord-factor(q,d) ·   query-boost(q) ·   	V(q) · V(d) / |V(q)|·   doc-len-norm(d)   ·   doc-boost(d)
+
+https://lucene.apache.org/core/4_7_2/core/org/apache/lucene/search/similarities/TFIDFSimilarity.html
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : hurricane isabel damage
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt) 
+
+1 (hurricane isabel damage) list_of_category_5_atlantic_hurricanes.txt 1 15.4154554214 BM25_Unigram_Casefolding
+1 (hurricane isabel damage) accumulated_cyclone_energy.txt 2 11.549942688 BM25_Unigram_Casefolding
+1 (hurricane isabel damage) eyewall.txt 3 11.0264864132 BM25_Unigram_Casefolding
+1 (hurricane isabel damage) eye_cyclone.txt 4 11.0264864132 BM25_Unigram_Casefolding
+1 (hurricane isabel damage) eyewall_mesovortices.txt 5 11.0264864132 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+1 hurricane isabel damage list_of_category_5_atlantic_hurricanes.txt 1 score=0.249427 Lucene4.7.2_BM25_Unigram_Casefolding
+1 hurricane isabel damage eyewall.txt 2 score=0.18110886 Lucene4.7.2_BM25_Unigram_Casefolding
+1 hurricane isabel damage eyewall_mesovortices.txt 3 score=0.18110886 Lucene4.7.2_BM25_Unigram_Casefolding
+1 hurricane isabel damage eye_cyclone.txt 4 score=0.18110886 Lucene4.7.2_BM25_Unigram_Casefolding
+1 hurricane isabel damage accumulated_cyclone_energy.txt 5 score=0.15904287 Lucene4.7.2_BM25_Unigram_Casefolding
+
+All the documents appear in top 5 in both results but in different order.
+Ranking may differ due to difference in retrieval modeal used.
+Differnce in normalising factor might cause shift in ranking 	
+BM25 vs (Boolean Model with Vector Space Model)
+In my model eyewall and eye_cyclone came up higher since their document length (2000+ words) was
+far greater then the document length of accumulated_cyclone_energy.txt with document length (1000 words or so)
+In Lucene norm(t,d)   =   lengthNorm  ·  	∏ 	f.boost()
+	field f in d named as t 	
+	It normalises the document length such that shorter fields contribute more to the score. 
+	LengthNorm is computed by the Similarity class in effect at indexing
+ That might affect the ranking between the two systems.
+_________________________________________________________________________________________________________________________
+Comparision for Query : forecast models
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+2 (forecast models) tropical_cyclone_prediction_model.txt 1 13.595597489 BM25_Unigram_Casefolding
+2 (forecast models) tropical_cyclone_rainfall_forecasting.txt 2 13.1213452566 BM25_Unigram_Casefolding
+2 (forecast models) tropical_cyclone_track_forecasting.txt 3 12.9833021942 BM25_Unigram_Casefolding
+2 (forecast models) national_weather_service.txt 4 11.3147577302 BM25_Unigram_Casefolding
+2 (forecast models) meteorology.txt 5 10.9537938625 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+2 forecast models tropical_cyclone_prediction_model.txt 1 score=0.5168867 Lucene4.7.2_BM25_Unigram_Casefolding
+2 forecast models tropical_cyclone_track_forecasting.txt 2 score=0.40602958 Lucene4.7.2_BM25_Unigram_Casefolding
+2 forecast models tropical_cyclone_rainfall_forecasting.txt 3 score=0.3822832 Lucene4.7.2_BM25_Unigram_Casefolding
+2 forecast models national_weather_service.txt 4 score=0.26503274 Lucene4.7.2_BM25_Unigram_Casefolding
+2 forecast models weather_station.txt 5 score=0.18371359 Lucene4.7.2_BM25_Unigram_Casefolding
+
+There are 4 common documents in each ranking
+weather_station file appears at slightly lower rank and in Lucene it appears in higher ranking
+Speculation is differene between document length normalision causes this shift in rank
+If the constants were altered for K or (b) the rankign would be similar
+
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : green energy canada
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+3 (green energy canada) cryoseism.txt 1 10.8123620942 BM25_Unigram_Casefolding
+3 (green energy canada) weather_radar.txt 2 10.0044016536 BM25_Unigram_Casefolding
+3 (green energy canada) agriculture.txt 3 9.27771258754 BM25_Unigram_Casefolding
+3 (green energy canada) fast_radio_burst.txt 4 9.24936433421 BM25_Unigram_Casefolding
+3 (green energy canada) energy_source.txt 5 8.35855338844 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+3 green energy canada energy_source.txt 1 score=0.26194263 Lucene4.7.2_BM25_Unigram_Casefolding
+3 green energy canada cryoseism.txt 2 score=0.20848367 Lucene4.7.2_BM25_Unigram_Casefolding
+3 green energy canada fast_radio_burst.txt 3 score=0.15452673 Lucene4.7.2_BM25_Unigram_Casefolding
+3 green energy canada weather_radar.txt 4 score=0.12920952 Lucene4.7.2_BM25_Unigram_Casefolding
+3 green energy canada agriculture.txt 5 score=0.12244792 Lucene4.7.2_BM25_Unigram_Casefolding
+
+All the 5 documents are present in both the ranking for top 5 results 
+The ranking might differ slightly beacuse of difference in retrieval model
+Slightly different ranking approaches used.
+This difference is because of diffference in scoring implemetation in both the systems
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : heavy rains
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+4 (heavy rains) list_of_wettest_tropical_cyclones_by_country.txt 1 11.1105804963 BM25_Unigram_Casefolding
+4 (heavy rains) mudflow.txt 2 10.0509574551 BM25_Unigram_Casefolding
+4 (heavy rains) wet_season.txt 3 9.94673023161 BM25_Unigram_Casefolding
+4 (heavy rains) thunderstorm_training.txt 4 9.81152656933 BM25_Unigram_Casefolding
+4 (heavy rains) tropical_cyclone_rainfall_forecasting.txt 5 9.52476704147 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+4 heavy rains thunderstorm_training.txt 1 score=0.32662556 Lucene4.7.2_BM25_Unigram_Casefolding
+4 heavy rains list_of_wettest_tropical_cyclones_by_country.txt 2 score=0.24537796 Lucene4.7.2_BM25_Unigram_Casefolding
+4 heavy rains mudflow.txt 3 score=0.21937531 Lucene4.7.2_BM25_Unigram_Casefolding
+4 heavy rains wet_season.txt 4 score=0.21909234 Lucene4.7.2_BM25_Unigram_Casefolding
+4 heavy rains kona_storm.txt 5 score=0.18863717 Lucene4.7.2_BM25_Unigram_Casefolding
+
+There are 4 documents that are common in both ranking (with order difference)
+file kona_storm.txt has higer value of fi hence appeared higher in BM25
+where as in Lucene the documents are varied through many normalization hence the ranking
+drops in lucene
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : hurricane music lyrics
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+5 (hurricane music lyrics) audioboxer.txt 1 19.2319713112 BM25_Unigram_Casefolding
+5 (hurricane music lyrics) thirty_seconds_to_mars.txt 2 17.502668591 BM25_Unigram_Casefolding
+5 (hurricane music lyrics) helios_album.txt 3 16.9140712922 BM25_Unigram_Casefolding
+5 (hurricane music lyrics) hamilton_musical.txt 4 14.1118986957 BM25_Unigram_Casefolding
+5 (hurricane music lyrics) corfu.txt 5 9.96644409409 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+5 hurricane music lyrics audioboxer.txt 1 score=0.87911206 Lucene4.7.2_BM25_Unigram_Casefolding\
+5 hurricane music lyrics helios_album.txt 2 score=0.329667 Lucene4.7.2_BM25_Unigram_Casefolding
+5 hurricane music lyrics thirty_seconds_to_mars.txt 3 score=0.2737208 Lucene4.7.2_BM25_Unigram_Casefolding
+5 hurricane music lyrics hurricane_disambiguation.txt 4 score=0.2269122 Lucene4.7.2_BM25_Unigram_Casefolding
+5 hurricane music lyrics hurricane_katrina_in_fiction.txt 5 score=0.2269122 Lucene4.7.2_BM25_Unigram_Casefolding
+
+3 documents match in the top 5 rersuts
+I speculate the reason for this is the boosting measure that Lucene implements
+t.getBoost()  boost of term t in the query q 
+Field boost
+These might boost the score of documents like hamilton_musical and corfu.txt
+where as in BM25 they appear slightly lower
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : accumulated snow
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+6 (accumulated snow) snow.txt 1 11.2439081472 BM25_Unigram_Casefolding
+6 (accumulated snow) hail.txt 2 10.2174211291 BM25_Unigram_Casefolding
+6 (accumulated snow) snowstorm.txt 3 10.0835220593 BM25_Unigram_Casefolding
+6 (accumulated snow) winter_storm.txt 4 10.0835220593 BM25_Unigram_Casefolding
+6 (accumulated snow) freezing_rain.txt 5 10.0220603651 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+6 accumulated snow snow.txt 1 score=0.3800719 Lucene4.7.2_BM25_Unigram_Casefolding
+6 accumulated snow snowstorm.txt 2 score=0.30410337 Lucene4.7.2_BM25_Unigram_Casefolding
+6 accumulated snow winter_storm.txt 3 score=0.30410337 Lucene4.7.2_BM25_Unigram_Casefolding
+6 accumulated snow avalanche.txt 4 score=0.2884959 Lucene4.7.2_BM25_Unigram_Casefolding
+6 accumulated snow freezing_rain.txt 5 score=0.23222515 Lucene4.7.2_BM25_Unigram_Casefolding
+
+4 documents are in top 5 results in both ranking
+avalanche has lower ranking in BM25 as accumulated appears fewer times in avalanche as compared to hail 
+hail is ranked higer since even though it may have fewer mentions of snow
+length of avalanche is significantly more than hail, Hence when calculating score
+the normalising factor is reducing the score of tf since the occurances is divided by the doc length 
+hence hail has higher ranking than avalanche
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : snow accumulation
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+7 (snow accumulation) snow.txt 1 13.1270815323 BM25_Unigram_Casefolding
+7 (snow accumulation) ice_pellets.txt 2 13.0847922471 BM25_Unigram_Casefolding
+7 (snow accumulation) ice_storm.txt 3 13.0052678104 BM25_Unigram_Casefolding
+7 (snow accumulation) snowstorm.txt 4 12.9474795557 BM25_Unigram_Casefolding
+7 (snow accumulation) winter_storm.txt 5 12.9474795557 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+7 snow accumulation snow.txt 1 score=0.4150958 Lucene4.7.2_BM25_Unigram_Casefolding
+7 snow accumulation snowstorm.txt 2 score=0.36300445 Lucene4.7.2_BM25_Unigram_Casefolding
+7 snow accumulation winter_storm.txt 3 score=0.36300445 Lucene4.7.2_BM25_Unigram_Casefolding
+7 snow accumulation ice_pellets.txt 4 score=0.34726024 Lucene4.7.2_BM25_Unigram_Casefolding
+7 snow accumulation avalanche.txt 5 score=0.30399472 Lucene4.7.2_BM25_Unigram_Casefolding
+
+4 documents match in top 5 results obtained in both ranking
+avalache has lower ranking in BM25 for the same reason as above, the term accumulation appears fewre counts in avalache than winter_storm
+and because of normalisation factor the score of winter_storm might be ranked higher than avalanche.
+The accumulation of score for query term in tandem with normalization factor seem to be the reason for difference in ranking.
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : massive blizzards blizzard
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+8 (massive blizzards blizzard) blizzard.txt 1 26.5162900171 BM25_Unigram_Casefolding
+8 (massive blizzards blizzard) ground_blizzard.txt 2 21.8046609321 BM25_Unigram_Casefolding
+8 (massive blizzards blizzard) natural_disaster.txt 3 19.126735824 BM25_Unigram_Casefolding
+8 (massive blizzards blizzard) snowstorm.txt 4 18.9970576826 BM25_Unigram_Casefolding
+8 (massive blizzards blizzard) winter_storm.txt 5 18.9970576826 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+8 massive blizzards blizzard blizzard.txt 1 score=0.6016494 Lucene4.7.2_BM25_Unigram_Casefolding
+8 massive blizzards blizzard ground_blizzard.txt 2 score=0.4936381 Lucene4.7.2_BM25_Unigram_Casefolding
+8 massive blizzards blizzard natural_disaster.txt 3 score=0.24561122 Lucene4.7.2_BM25_Unigram_Casefolding
+8 massive blizzards blizzard north_american_blizzard_of_2006.txt 4 score=0.24337545 Lucene4.7.2_BM25_Unigram_Casefolding
+8 massive blizzards blizzard snowstorm.txt 5 score=0.23725195 Lucene4.7.2_BM25_Unigram_Casefolding
+
+4 Documents match in top 5 resuts obtained in both ranking
+north_american_blizzard_of_2006 has lower ranking (rank 12) in BM25
+Because of document length (document length of north_american_blizzard_of_2006 is just 14 words)
+and document length of winter_storm is much higher and contains many more mentions of one of the query terms
+hene might be allocated higher ranking in BM25
+Note Lucene4.7.2 has a special boosting factor just for this scenario 
+norm(t,d) encapsulates a few (indexing time) boost and length factors:
+    Field boost - 
+lengthNorm - computed when the document is added to the index in accordance with the number of tokens of this field in the document,
+ so that shorter fields contribute more to the score. LengthNorm is computed by the Similarity class in effect at indexing. 
+
+Because of lengthNorm the document avalache has higher ranking in Lucene.  
+___________________________________________________________________________________________________________________________________________________
+Comparision for Query : new york city subway 
+
+Results from BM25_Casefolding_Unigram (Obtained form BM25_Unigram_Casefolding_query_res.txt)
+
+9 (new york city subway) new_york_city.txt 1 23.4206640989 BM25_Unigram_Casefolding
+9 (new york city subway) weather-related_cancellation.txt 2 21.5315634661 BM25_Unigram_Casefolding
+9 (new york city subway) hurricane_sandy.txt 3 21.107409014 BM25_Unigram_Casefolding
+9 (new york city subway) new_england.txt 4 14.7687146047 BM25_Unigram_Casefolding
+9 (new york city subway) arctic_oscillation.txt 5 12.0350204709 BM25_Unigram_Casefolding
+
+Results from Lucene (HW4.java) (Obtained from Lucene_Result.txt)
+
+9 new york city subway new_york_city.txt 1 score=0.57816195 Lucene4.7.2_BM25_Unigram_Casefolding
+9 new york city subway weather-related_cancellation.txt 2 score=0.30408883 Lucene4.7.2_BM25_Unigram_Casefolding
+9 new york city subway hurricane_sandy.txt 3 score=0.29415202 Lucene4.7.2_BM25_Unigram_Casefolding
+9 new york city subway new_england.txt 4 score=0.24025697 Lucene4.7.2_BM25_Unigram_Casefolding
+9 new york city subway arctic_oscillation.txt 5 score=0.14257006 Lucene4.7.2_BM25_Unigram_Casefolding
+
+Both the ranking produced by BM25 retrieval model and Lucene 4.7.2 match. :)
+
+___________________________________________________________________________________________________________________________________________________

@@ -1,0 +1,1800 @@
+1 Q0 list_of_category_5_atlantic_hurricanes.txt 1 0.249427 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 eyewall.txt 2 0.18110886 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 eyewall_mesovortices.txt 3 0.18110886 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 eye_cyclone.txt 4 0.18110886 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 accumulated_cyclone_energy.txt 5 0.15904287 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 2005_atlantic_hurricane_season.txt 6 0.13594304 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 1933_atlantic_hurricane_season.txt 7 0.12405184 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_engineering.txt 8 0.11638489 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 fujita_scale.txt 9 0.11171817 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 atlantic_hurricane.txt 10 0.102688536 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 atlantic_hurricane_season.txt 11 0.09868338 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 dj_hurricane.txt 12 0.093555115 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_rita.txt 13 0.09349378 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_comics.txt 14 0.093237065 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 rapid_deepening.txt 15 0.09258361 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_nickname.txt 16 0.08970255 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_ike.txt 17 0.08775899 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_hunters.txt 18 0.087239385 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 galveston_hurricane_of_1900.txt 19 0.08659347 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 2006_pacific_hurricane_season.txt 20 0.08512386 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane-proof_building.txt 21 0.08293274 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_katrina.txt 22 0.0801619 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_preparedness.txt 23 0.07917616 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_sandy.txt 24 0.07910533 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 effects_of_tropical_cyclones.txt 25 0.06961994 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 tropical_cyclone_basins.txt 26 0.06715201 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 project_stormfury.txt 27 0.06704355 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane.txt 28 0.06691606 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 tropical_cyclone.txt 29 0.06691606 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 tropical_cyclone_scales.txt 30 0.06525235 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 storm_damage.txt 31 0.06461709 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hawker_hurricane.txt 32 0.06431301 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 emergency_shelter.txt 33 0.06426179 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 1821_norfolk_and_long_island_hurricane.txt 34 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 1886_indianola_hurricane.txt 35 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 1887_atlantic_hurricane_season.txt 36 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 1994_pacific_hurricane_season.txt 37 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 2017_atlantic_hurricane_season.txt 38 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 2017_pacific_hurricane_season.txt 39 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 aca_hurricane.txt 40 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 al_hurricane.txt 41 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 canadian_hurricane_center.txt 42 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 captain_hurricane_comics.txt 43 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 central_pacific_hurricane_center.txt 44 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 great_hurricane_of_1780.txt 45 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hms_hurricane_h06.txt 46 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 houston_hurricane.txt 47 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane!_american_dad!.txt 48 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane!_nova.txt 49 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_30_seconds_to_mars_song.txt 50 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_alabama.txt 51 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_athlete_song.txt 52 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_bob_dylan_song.txt 53 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_bollinger_county_missouri.txt 54 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_bridgit_mendler_song.txt 55 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_camille.txt 56 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_canal.txt 57 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_catarina.txt 58 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_chris_rapper.txt 59 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_cliffs.txt 60 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_cradle_to_the_grave.txt 61 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_creek_disambiguation.txt 62 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_debbie_1969.txt 63 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_eric_ben%c3%a9t_album.txt 64 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_festival.txt 65 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_g.txt 66 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_grace_1991.txt 67 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_grace_jones_album.txt 68 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_high_gravity_lager.txt 69 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_high_school_utah.txt 70 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_high_school_west_virginia.txt 71 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_iniki.txt 72 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_ioke.txt 73 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_iris_1995.txt 74 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_isidore.txt 75 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_ivan.txt 76 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_john_1994.txt 77 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_kenna.txt 78 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_kentucky.txt 79 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_lake.txt 80 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_lauren_bennett_song.txt 81 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_leon_everette_song.txt 82 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_luke_combs_song.txt 83 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_mesa.txt 84 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_middle_class_rut_album.txt 85 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_mitch.txt 86 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_mountain_disambiguation.txt 87 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_natalie_grant_album.txt 88 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_natalie_grant_song.txt 89 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_neddy.txt 90 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_no._1.txt 91 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_ophelia_2017.txt 92 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_pass.txt 93 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_patricia.txt 94 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_pauline.txt 95 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_paul_1982.txt 96 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_plantation.txt 97 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_puffy_amiyumi_song.txt 98 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_rebound!_song.txt 99 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+1 Q0 hurricane_ridge.txt 100 0.06342928 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_prediction_model.txt 1 0.5168867 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_track_forecasting.txt 2 0.40602958 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_rainfall_forecasting.txt 3 0.3822832 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 national_weather_service.txt 4 0.26503274 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 weather_station.txt 5 0.18371359 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 meteorologist.txt 6 0.17877963 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 meteorology.txt 7 0.17877963 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 shipping_forecast.txt 8 0.16934037 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 weather.txt 9 0.15978986 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 flood.txt 10 0.15893823 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 flooding.txt 11 0.15893823 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 great_storm_of_1987.txt 12 0.15869978 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 polar_low.txt 13 0.14846301 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tsunami.txt 14 0.13113846 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hurricane_hunters.txt 15 0.12990513 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 2006_pacific_typhoon_season.txt 16 0.117011026 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 atmospheric_convection.txt 17 0.11524163 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 national_oceanic_and_atmospheric_administration.txt 18 0.11524163 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 100-year_flood.txt 19 0.11134726 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 pacific_hurricane.txt 20 0.11134726 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 pacific_hurricane_season.txt 21 0.11134726 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 heavy_rain_meteorology.txt 22 0.10546334 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 precipitation.txt 23 0.10546334 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 precipitation_meteorology.txt 24 0.10546334 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 rain.txt 25 0.10546334 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 gale_warning.txt 26 0.093885 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 catastrophe_modeling.txt 27 0.092603646 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 nexrad.txt 28 0.092193305 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 heat_storm.txt 29 0.0870174 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 heat_wave.txt 30 0.0870174 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 eyewall_replacement_cycle.txt 31 0.074231505 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 jet_stream.txt 32 0.074231505 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hurricane_sandy.txt 33 0.07349695 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hurricane.txt 34 0.07174385 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone.txt 35 0.07174385 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hypernova.txt 36 0.06945273 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hurricane_warning.txt 37 0.06504543 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_watches_and_warnings.txt 38 0.06504543 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_storm_warning.txt 39 0.06504543 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 empirical_relationship.txt 40 0.061735764 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 small_craft_advisory.txt 41 0.061325423 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 atlantic_multidecadal_oscillation.txt 42 0.06039485 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 global_warming.txt 43 0.059023473 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hurricane_katrina.txt 44 0.057620816 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 weather_radar.txt 45 0.054385874 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 bureau_of_meteorology.txt 46 0.05420453 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 azores_high.txt 47 0.054018795 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 2005_atlantic_hurricane_season.txt 48 0.053659745 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 beaufort_scale.txt 49 0.053659745 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 violent_storm.txt 50 0.053659745 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 snowmobile.txt 51 0.048806407 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 snowmobiling.txt 52 0.048806407 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 gamma-ray_burst.txt 53 0.046781648 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 water.txt 54 0.04639469 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 climate.txt 55 0.046301823 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 sting_jet.txt 56 0.046301823 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 weather_satellite.txt 57 0.045994066 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 cliwoc.txt 58 0.043653775 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 toxins.txt 59 0.043653775 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 snowsquall.txt 60 0.043363623 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 effects_of_tropical_cyclones.txt 61 0.03832839 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 lists_of_tropical_cyclone_names.txt 62 0.03832839 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 storm_surge.txt 63 0.03832839 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_naming.txt 64 0.03832839 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 lahar.txt 65 0.03819705 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 air-mass_thunderstorm.txt 66 0.03794317 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 atlantic_hurricane_season.txt 67 0.03794317 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 fujita_scale.txt 68 0.03794317 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 insolation.txt 69 0.03780528 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 solar_radiation.txt 70 0.03780528 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 snow.txt 71 0.034726366 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 map_projection.txt 72 0.034511343 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 wind_waves.txt 73 0.034511343 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 coronal_mass_ejection.txt 74 0.033415463 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 vorticity.txt 75 0.032740332 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 2006_pacific_hurricane_season.txt 76 0.032522716 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 adiabatic_lapse_rate.txt 77 0.032522716 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 banqiao_dam.txt 78 0.032522716 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclone_observation.txt 79 0.032522716 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 astrophysical_jet.txt 80 0.030867882 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 atmospheric_sounding.txt 81 0.030867882 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 heat_of_condensation.txt 82 0.030867882 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 effects_of_global_warming.txt 83 0.028353961 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 tropical_cyclones_and_climate_change.txt 84 0.027283609 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 upwelling.txt 85 0.027283609 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 windshear.txt 86 0.027283609 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 wind_shear.txt 87 0.027283609 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 cumulus_cloud.txt 88 0.027102266 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 project_stormfury.txt 89 0.027102266 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 solar_flare.txt 90 0.027102266 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 avalanche.txt 91 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 extreme_weather.txt 92 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 freezing_rain.txt 93 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 hadley_cell.txt 94 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 ice_calving.txt 95 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 snowshoe.txt 96 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 space_shuttle_challenger.txt 97 0.027009398 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 ocean.txt 98 0.02673237 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 jupiter.txt 99 0.025883507 Lucene4.7.2_Unigram_Casefolding
+
+2 Q0 wildfire.txt 100 0.023628302 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 energy_source.txt 1 0.26194263 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 cryoseism.txt 2 0.20848367 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 fast_radio_burst.txt 3 0.15452673 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 weather_radar.txt 4 0.12920952 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 agriculture.txt 5 0.12244792 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 taipei_101.txt 6 0.10057058 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 iceland.txt 7 0.0968287 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 severe_thunderstorm.txt 8 0.095084995 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 thunderstorm.txt 9 0.095084995 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 thunderstorms.txt 10 0.095084995 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 hurricane_sandy.txt 11 0.091202356 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 flood.txt 12 0.09001631 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 flooding.txt 13 0.09001631 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 mechanical_energy.txt 14 0.08077452 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 snowshoe.txt 15 0.078764275 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 famine.txt 16 0.078381754 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 florida.txt 17 0.078367054 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 automobile.txt 18 0.07614103 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 thermal_radiation.txt 19 0.07482858 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 cyclogenesis.txt 20 0.07311854 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 world_energy_resources_and_consumption.txt 21 0.07122159 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 new_york_city.txt 22 0.06773488 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 natural_gas.txt 23 0.067017436 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 derecho.txt 24 0.06601461 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 uk.txt 25 0.06494134 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 united_kingdom.txt 26 0.06494134 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 snow_cannon.txt 27 0.06358478 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 particle_shower.txt 28 0.06154249 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 india.txt 29 0.057955287 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 new_england.txt 30 0.057955287 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 visible_light.txt 31 0.0575521 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 exajoule.txt 32 0.056977272 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 hurricane_disambiguation.txt 33 0.05666378 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 severe_weather.txt 34 0.056104314 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 ultra-high-energy_cosmic_ray.txt 35 0.055853352 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 thundersnow.txt 36 0.055640183 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 polar_cyclone.txt 37 0.055611532 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 polar_vortex.txt 38 0.055611532 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 turboprop.txt 39 0.054501235 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 infrared.txt 40 0.054480553 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 brazil.txt 41 0.054334283 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 latent_heat.txt 42 0.053297363 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 snowstorm.txt 43 0.051789097 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 winter_storm.txt 44 0.051789097 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 veracruz.txt 45 0.05150891 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 diaspora.txt 46 0.050631106 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 weather.txt 47 0.049313158 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 extratropical_cyclone.txt 48 0.049085498 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 extratropical_cyclones.txt 49 0.049085498 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 extratropical_storm.txt 50 0.049085498 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 rossby_wave.txt 51 0.04895636 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 cold_wave.txt 52 0.048685156 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 iceberg.txt 53 0.048685156 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 storm_disambiguation.txt 54 0.048568957 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 monsoon.txt 55 0.047671407 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 france.txt 56 0.047224462 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 heat.txt 57 0.04595035 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 european_windstorm.txt 58 0.045417696 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 telephone_line.txt 59 0.045051217 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 hurricane.txt 60 0.04497955 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 tropical_cyclone.txt 61 0.04497955 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 minnesota.txt 62 0.04444634 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 peshtigo_fire.txt 63 0.044140995 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 outgoing_longwave_radiation.txt 64 0.043517113 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 livestock.txt 65 0.043040134 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 climate.txt 66 0.042196102 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 energetics.txt 67 0.04193414 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 earth.txt 68 0.04180347 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 sensible_heat.txt 69 0.04070653 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 carbon_dioxide.txt 70 0.04048009 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 el_ni%c3%b1o.txt 71 0.03967174 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 jet_stream.txt 72 0.039450526 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 tornado.txt 73 0.038553737 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 ipcc.txt 74 0.038310725 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 emergency_shelter.txt 75 0.038227223 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 starboard.txt 76 0.038227223 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 2005_atlantic_hurricane_season.txt 77 0.03766012 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 coral_reef.txt 78 0.037063655 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 metric_system.txt 79 0.036814123 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 accumulated_cyclone_energy.txt 80 0.036692373 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 cosmic_rays.txt 81 0.036692373 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 hurricane_ike.txt 82 0.03662042 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 land_of_oz.txt 83 0.036495656 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 hail.txt 84 0.03633416 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 disaster_preparedness.txt 85 0.035065196 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 disaster_relief.txt 86 0.035065196 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 ice_pellets.txt 87 0.03505163 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 electricity_distribution.txt 88 0.034775116 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 natural_disaster.txt 89 0.034775116 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 satellites.txt 90 0.034775116 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 concussion.txt 91 0.03451921 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 1933_atlantic_hurricane_season.txt 92 0.0344256 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 enthalpy.txt 93 0.034403298 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 panhandle_hook.txt 94 0.034343436 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 pair-instability_supernova.txt 95 0.03378337 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 isothermal.txt 96 0.033752073 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 impact_event.txt 97 0.03336692 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 sunset.txt 98 0.033105746 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 mechanical_work.txt 99 0.032895844 Lucene4.7.2_Unigram_Casefolding
+
+3 Q0 supernova_impostor.txt 100 0.032895844 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 thunderstorm_training.txt 1 0.32662556 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 list_of_wettest_tropical_cyclones_by_country.txt 2 0.24537796 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 mudflow.txt 3 0.21937531 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 wet_season.txt 4 0.21909234 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 kona_storm.txt 5 0.18863717 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 flash_flood.txt 6 0.18772772 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 flash_flooding.txt 7 0.18772772 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 rainband.txt 8 0.17705333 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 rainbands.txt 9 0.17705333 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 tropical_cyclone_rainfall_forecasting.txt 10 0.17321935 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 squall.txt 11 0.15605193 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 1933_atlantic_hurricane_season.txt 12 0.15540823 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 severe_weather.txt 13 0.15018472 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 ice_storm.txt 14 0.14913204 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 monsoon_trough.txt 15 0.14289868 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 2005_atlantic_hurricane_season.txt 16 0.14015466 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 monsoon.txt 17 0.12592505 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 el_ni%c3%b1o.txt 18 0.12379002 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 la_ni%c3%b1a.txt 19 0.12248458 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 mesoscale_convective_system.txt 20 0.117898226 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 hurricane_rita.txt 21 0.11499951 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 2006_pacific_typhoon_season.txt 22 0.11411827 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 derecho.txt 23 0.1090543 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 heavy_rain_meteorology.txt 24 0.10795452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 rain.txt 25 0.10795452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 hurricane_sandy.txt 26 0.1043884 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 hurricane_katrina.txt 27 0.09695111 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 precipitation.txt 28 0.092083775 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 precipitation_meteorology.txt 29 0.092083775 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 supercell.txt 30 0.0910303 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 weather.txt 31 0.09087858 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 cyclone_winston.txt 32 0.088526666 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 galveston_hurricane_of_1900.txt 33 0.08165639 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 meteorologist.txt 34 0.07746083 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 meteorology.txt 35 0.07746083 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 cyclone.txt 36 0.07270287 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 cyclonic.txt 37 0.07270287 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 cosmic_rays.txt 38 0.06361501 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 soil.txt 39 0.061513826 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 typhoon_haiyan.txt 40 0.06124229 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 desert.txt 41 0.058664914 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 panhandle_hook.txt 42 0.056159273 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 famine.txt 43 0.05103524 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 snowstorm.txt 44 0.048635356 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 winter_storm.txt 45 0.048635356 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 harmattan.txt 46 0.045853853 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 guam.txt 47 0.04543929 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 sinkhole.txt 48 0.04470126 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 colorado_low.txt 49 0.043231428 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 outline_of_tropical_cyclones.txt 50 0.043231428 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 snowsquall.txt 51 0.043231428 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 sudestada.txt 52 0.043231428 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 summer.txt 53 0.038315363 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 air-mass_thunderstorm.txt 54 0.0378275 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 kilonova.txt 55 0.0378275 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 quark-nova.txt 56 0.0378275 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 shovel.txt 57 0.037439514 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 argentina.txt 58 0.036351435 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 philippines.txt 59 0.036351435 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 sahara.txt 60 0.033182077 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 effects_of_tropical_cyclones.txt 61 0.03309217 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 freezing_rain.txt 62 0.032759573 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 australian_east_coast_low.txt 63 0.03242357 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 weather-related_cancellation.txt 64 0.03242357 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 whiteout_weather.txt 65 0.03242357 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 storm_surge.txt 66 0.03192947 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 subtropical_cyclone.txt 67 0.03192947 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 inflow_meteorology.txt 68 0.030569235 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 thundersnow.txt 69 0.030569235 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 2006_pacific_hurricane_season.txt 70 0.030329475 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 storm_damage.txt 71 0.0285949 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 typhoon_tip.txt 72 0.028079636 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 condensation.txt 73 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 condense.txt 74 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 perfect_storm.txt 75 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 secondary_flow.txt 76 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 sled.txt 77 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 sleigh.txt 78 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 weather_bomb.txt 79 0.027019642 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 spacecraft.txt 80 0.02674808 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 snow_removal.txt 81 0.026473736 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 spring_season.txt 82 0.025543576 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 anvil.txt 83 0.023399696 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 estuary.txt 84 0.023399696 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 mediterranean_tropical-like_cyclone.txt 85 0.02316452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 severe_thunderstorm.txt 86 0.02316452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 thunderstorm.txt 87 0.02316452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 thunderstorms.txt 88 0.02316452 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 ilse_delange.txt 89 0.022926927 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 nor%27easter.txt 90 0.022926927 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 tropical_cyclone_track_forecasting.txt 91 0.022926927 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 south_america.txt 92 0.022577547 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 gamma-ray_burst.txt 93 0.02235063 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 extratropical_cyclone.txt 94 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 extratropical_cyclones.txt 95 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 extratropical_storm.txt 96 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 hurricane_band.txt 97 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 mass_wasting.txt 98 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 paleotempestology.txt 99 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+4 Q0 snowmobile.txt 100 0.021615714 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 audioboxer.txt 1 0.87911206 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 helios_album.txt 2 0.329667 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 thirty_seconds_to_mars.txt 3 0.2737208 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_disambiguation.txt 4 0.2269122 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_katrina_in_fiction.txt 5 0.2269122 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hamilton_musical.txt 6 0.17347795 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 samestate.txt 7 0.113385186 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 ilse_delange.txt 8 0.11321535 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 tropical_cyclones_in_popular_culture.txt 9 0.100664735 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_nickname.txt 10 0.08795159 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 corfu.txt 11 0.08041467 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 white_horse.txt 12 0.06632936 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 tempo.txt 13 0.06594755 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hindustani_language.txt 14 0.06548545 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 1821_norfolk_and_long_island_hurricane.txt 15 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 1886_indianola_hurricane.txt 16 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 1887_atlantic_hurricane_season.txt 17 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 1994_pacific_hurricane_season.txt 18 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 2017_atlantic_hurricane_season.txt 19 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 2017_pacific_hurricane_season.txt 20 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 aca_hurricane.txt 21 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 al_hurricane.txt 22 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 canadian_hurricane_center.txt 23 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 captain_hurricane_comics.txt 24 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 central_pacific_hurricane_center.txt 25 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 great_hurricane_of_1780.txt 26 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hms_hurricane_h06.txt 27 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 houston_hurricane.txt 28 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane!_american_dad!.txt 29 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane!_nova.txt 30 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_30_seconds_to_mars_song.txt 31 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_alabama.txt 32 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_athlete_song.txt 33 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_bob_dylan_song.txt 34 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_bollinger_county_missouri.txt 35 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_bridgit_mendler_song.txt 36 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_camille.txt 37 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_canal.txt 38 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_catarina.txt 39 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_chris_rapper.txt 40 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_cliffs.txt 41 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_cradle_to_the_grave.txt 42 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_creek_disambiguation.txt 43 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_debbie_1969.txt 44 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_eric_ben%c3%a9t_album.txt 45 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_festival.txt 46 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_g.txt 47 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_grace_1991.txt 48 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_grace_jones_album.txt 49 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_high_gravity_lager.txt 50 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_high_school_utah.txt 51 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_high_school_west_virginia.txt 52 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_iniki.txt 53 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_ioke.txt 54 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_iris_1995.txt 55 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_isidore.txt 56 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_ivan.txt 57 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_john_1994.txt 58 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_kenna.txt 59 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_kentucky.txt 60 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_lake.txt 61 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_lauren_bennett_song.txt 62 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_leon_everette_song.txt 63 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_luke_combs_song.txt 64 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_mesa.txt 65 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_middle_class_rut_album.txt 66 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_mitch.txt 67 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_mountain_disambiguation.txt 68 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_natalie_grant_album.txt 69 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_natalie_grant_song.txt 70 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_neddy.txt 71 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_no._1.txt 72 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_ophelia_2017.txt 73 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_pass.txt 74 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_patricia.txt 75 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_pauline.txt 76 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_paul_1982.txt 77 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_plantation.txt 78 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_puffy_amiyumi_song.txt 79 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_rebound!_song.txt 80 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_ridge.txt 81 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_ryu.txt 82 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_the_click_song.txt 83 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_thrice_song.txt 84 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_utah.txt 85 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_washington_county_missouri.txt 86 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_westend_song.txt 87 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_west_virginia.txt 88 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 hurricane_wisconsin.txt 89 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 jeep_hurricane.txt 90 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 list_of_atlantic_hurricane_seasons.txt 91 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 national_hurricane_center.txt 92 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 north_atlantic_hurricane.txt 93 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 operation_hurricane_disambiguation.txt 94 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 rae_hurricane.txt 95 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 saffir%e2%80%93simpson_hurricane_scale.txt 96 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 saffir-simpson_hurricane_scale.txt 97 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 the_hurricane!.txt 98 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 the_hurricane_1937_film.txt 99 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+5 Q0 the_hurricane_1999_film.txt 100 0.06219117 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snow.txt 1 0.3800719 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowstorm.txt 2 0.30410337 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 winter_storm.txt 3 0.30410337 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 avalanche.txt 4 0.2884959 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 freezing_rain.txt 5 0.23222515 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 cryoseism.txt 6 0.17648566 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 storm_damage.txt 7 0.17156413 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 hail.txt 8 0.15541686 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 ice_storm.txt 9 0.14448923 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowplow.txt 10 0.1389715 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 precipitation.txt 11 0.13646689 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 precipitation_meteorology.txt 12 0.13646689 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snow_cannon.txt 13 0.13351949 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 dust_devil.txt 14 0.13236424 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 dust_devils.txt 15 0.13236424 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 severe_weather.txt 16 0.128573 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snow_removal.txt 17 0.126524 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 list_of_wettest_tropical_cyclones_by_country.txt 18 0.120407686 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 flood.txt 19 0.114572264 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 flooding.txt 20 0.114572264 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 ground_blizzard.txt 21 0.11444528 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowsquall.txt 22 0.104859985 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 2005_atlantic_hurricane_season.txt 23 0.10148007 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 tibetan_plateau.txt 24 0.09713554 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 whiteout_weather.txt 25 0.093444176 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 accumulated_cyclone_energy.txt 26 0.09148326 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 blizzard.txt 27 0.09147671 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 weather-related_cancellation.txt 28 0.08946599 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 heavy_rain_meteorology.txt 29 0.08242223 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 rain.txt 30 0.08242223 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 ice_pellets.txt 31 0.077870145 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 sunlight.txt 32 0.07770843 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 thundersnow.txt 33 0.07629685 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 panhandle_hook.txt 34 0.066075005 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 winter_sports.txt 35 0.066075005 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 polar_front.txt 36 0.06358071 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowmobile.txt 37 0.06358071 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowmobiling.txt 38 0.06358071 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowshoe.txt 39 0.061950415 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 alberta_clipper.txt 40 0.055062506 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 mesoscale_convective_system.txt 41 0.055062506 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 sled.txt 42 0.055062506 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 sleigh.txt 43 0.055062506 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 whirlwind.txt 44 0.05395002 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 whirlwinds.txt 45 0.05395002 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 gas_giant.txt 46 0.052276146 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 colorado_low.txt 47 0.050864566 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 rainband.txt 48 0.050864566 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 rainbands.txt 49 0.050864566 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 snowboarding.txt 50 0.050864566 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 yamagata_prefecture.txt 51 0.049759775 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 tropical_cyclones_and_climate_change.txt 52 0.04620602 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 atlantic_multidecadal_oscillation.txt 53 0.04574163 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 winter.txt 54 0.04495835 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 equator.txt 55 0.044506494 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 mississippi.txt 56 0.044121414 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 skiing.txt 57 0.044050004 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 brazil.txt 58 0.038854215 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 air_mass.txt 59 0.038543753 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 black_ice.txt 60 0.038543753 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 cold_front.txt 61 0.038543753 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 cold_wave.txt 62 0.038543753 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 nor%27easter.txt 63 0.038148426 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 squall.txt 64 0.038148426 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 sting_jet.txt 65 0.038148426 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 waterspout.txt 66 0.038148426 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 waterspouts.txt 67 0.038148426 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 tropical_cyclone_scales.txt 68 0.036964815 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 arctic_oscillation.txt 69 0.03596668 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 roopkund.txt 70 0.03596668 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 ski.txt 71 0.035542697 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 landslide.txt 72 0.03267259 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 tropical_cyclogenesis.txt 73 0.03267259 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 condensation.txt 74 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 condense.txt 75 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 mexican_plateau.txt 76 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 northern_hemisphere.txt 77 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 sea_surface_temperature.txt 78 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 siberian_high.txt 79 0.031790353 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 hurricane_sandy.txt 80 0.029737152 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 weather_radar.txt 81 0.029737152 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 natural_disaster.txt 82 0.027531253 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 meteorologist.txt 83 0.027254552 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 meteorology.txt 84 0.027254552 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 100-year_flood.txt 85 0.02697501 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 weather_satellite.txt 86 0.02697501 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 bay_of_bengal.txt 87 0.026138073 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 continent.txt 88 0.026138073 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 turbulence.txt 89 0.026138073 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 antarctic.txt 90 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 cumulonimbus.txt 91 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 cumulonimbus_cloud.txt 92 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 flash_flood.txt 93 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 flash_flooding.txt 94 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 heat_burst.txt 95 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 inflow_meteorology.txt 96 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 kona_storm.txt 97 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 shovel.txt 98 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 spring_season.txt 99 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+6 Q0 tropical.txt 100 0.025432283 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snow.txt 1 0.4150958 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowstorm.txt 2 0.36300445 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 winter_storm.txt 3 0.36300445 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 ice_pellets.txt 4 0.34726024 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 avalanche.txt 5 0.30399472 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 ice_storm.txt 6 0.2844012 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 freezing_rain.txt 7 0.27382985 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 storm_damage.txt 8 0.19414255 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 hail.txt 9 0.17345795 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 black_ice.txt 10 0.17188506 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 flood.txt 11 0.1389041 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 flooding.txt 12 0.1389041 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowplow.txt 13 0.13469589 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snow_cannon.txt 14 0.12941162 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snow_removal.txt 15 0.12263136 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 climate_oscillation.txt 16 0.12026265 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 ground_blizzard.txt 17 0.11092425 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowsquall.txt 18 0.10163386 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 hurricane_sandy.txt 19 0.09234781 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 weather_radar.txt 20 0.09234781 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 whiteout_weather.txt 21 0.09056927 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 blizzard.txt 22 0.088662334 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 weather-related_cancellation.txt 23 0.08671348 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 effects_of_global_warming.txt 24 0.08298297 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 climate.txt 25 0.0801751 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 ice_dam.txt 26 0.07852459 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 wildfire.txt 27 0.07551401 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 thundersnow.txt 28 0.0739495 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 water.txt 29 0.06915248 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 heavy_rain_meteorology.txt 30 0.06778905 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 rain.txt 31 0.06778905 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 desert.txt 32 0.06551558 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 panhandle_hook.txt 33 0.06404214 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 winter_sports.txt 34 0.06404214 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 polar_front.txt 35 0.06162458 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowmobile.txt 36 0.06162458 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowmobiling.txt 37 0.06162458 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 national_weather_service.txt 38 0.060131326 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowshoe.txt 39 0.060044453 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 mass_wasting.txt 40 0.05552527 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 alberta_clipper.txt 41 0.053368453 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 mesoscale_convective_system.txt 42 0.053368453 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 sled.txt 43 0.053368453 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 sleigh.txt 44 0.053368453 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 whirlwind.txt 45 0.05229019 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 whirlwinds.txt 46 0.05229019 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 colorado_low.txt 47 0.049299665 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 rainband.txt 48 0.049299665 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 rainbands.txt 49 0.049299665 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 snowboarding.txt 50 0.049299665 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 yamagata_prefecture.txt 51 0.048228864 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 precipitation.txt 52 0.047133744 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 precipitation_meteorology.txt 53 0.047133744 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 winter.txt 54 0.04357516 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 equator.txt 55 0.043137208 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 skiing.txt 56 0.042694762 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 air_mass.txt 57 0.03735792 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 cold_front.txt 58 0.03735792 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 cold_wave.txt 59 0.03735792 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 nor%27easter.txt 60 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 severe_weather.txt 61 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 squall.txt 62 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 sting_jet.txt 63 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 waterspout.txt 64 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 waterspouts.txt 65 0.03697475 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 arctic_oscillation.txt 66 0.034860127 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 cryoseism.txt 67 0.034860127 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 roopkund.txt 68 0.034860127 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 oceanographic.txt 69 0.034703292 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 rainforest.txt 70 0.034703292 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 rainforests.txt 71 0.034703292 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 secondary_flow.txt 72 0.034703292 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 ski.txt 73 0.03444919 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 condensation.txt 74 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 condense.txt 75 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 mexican_plateau.txt 76 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 northern_hemisphere.txt 77 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 sea_surface_temperature.txt 78 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 siberian_high.txt 79 0.03081229 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 soil.txt 80 0.029751876 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 bay_of_bengal.txt 81 0.027762635 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 list_of_wettest_tropical_cyclones_by_country.txt 82 0.026684226 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 natural_disaster.txt 83 0.026684226 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 meteorologist.txt 84 0.026416037 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 meteorology.txt 85 0.026416037 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 100-year_flood.txt 86 0.026145095 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 dust_devil.txt 87 0.026145095 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 dust_devils.txt 88 0.026145095 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 weather_satellite.txt 89 0.026145095 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 antarctic.txt 90 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 cumulonimbus.txt 91 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 cumulonimbus_cloud.txt 92 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 flash_flood.txt 93 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 flash_flooding.txt 94 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 heat_burst.txt 95 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 inflow_meteorology.txt 96 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 kona_storm.txt 97 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 shovel.txt 98 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 spring_season.txt 99 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+7 Q0 tropical.txt 100 0.024649832 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 blizzard.txt 1 0.6016494 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 ground_blizzard.txt 2 0.4936381 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 natural_disaster.txt 3 0.24561122 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 north_american_blizzard_of_2006.txt 4 0.24337545 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 snowstorm.txt 5 0.23725195 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 winter_storm.txt 6 0.23725195 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 panhandle_hook.txt 7 0.22521156 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 severe_weather.txt 8 0.16373672 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 thundersnow.txt 9 0.15014105 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 super_storm_disambiguation.txt 10 0.07605483 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 snow.txt 11 0.07505469 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 ice_storm.txt 12 0.0700327 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 gulf_low.txt 13 0.06453466 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 storm_warning.txt 14 0.053238377 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 whiteout_weather.txt 15 0.048071127 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 storm_novel.txt 16 0.045632895 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 storm_damage.txt 17 0.04506298 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 disaster.txt 18 0.04005927 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 gale_warning.txt 19 0.038027413 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cape_cod.txt 20 0.033797234 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 nor%27easter.txt 21 0.03226733 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cumulonimbus.txt 22 0.032047417 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cumulonimbus_cloud.txt 23 0.032047417 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 argentina.txt 24 0.031580154 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 snowsquall.txt 25 0.030421931 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 minnesota.txt 26 0.029180288 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 virginia.txt 27 0.028164363 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 supernova.txt 28 0.022876635 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 la_ni%c3%b1a.txt 29 0.022816448 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 helios_album.txt 30 0.02196157 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 ice_dam.txt 31 0.020705566 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 gamma-ray_burst.txt 32 0.020255838 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 winter.txt 33 0.020029634 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 extrasolar_planet.txt 34 0.019368283 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 coastal_flood.txt 35 0.01901928 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 coastal_flooding.txt 36 0.01901928 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hypernova.txt 37 0.01901928 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 tropical_cyclones_and_climate_change.txt 38 0.019013707 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 haboob.txt 39 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hurricane_1979_film.txt 40 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 northern_hemisphere.txt 41 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 siberian_high.txt 42 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 sled.txt 43 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 sleigh.txt 44 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 tropical_cyclones_in_popular_culture.txt 45 0.018301308 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 extratropical_cyclone.txt 46 0.016023709 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 extratropical_cyclones.txt 47 0.016023709 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 extratropical_storm.txt 48 0.016023709 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 meteor_shower.txt 49 0.015849398 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hydrostatic_balance.txt 50 0.015529174 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 astrophysical_jet.txt 51 0.0146410465 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 gas_giant.txt 52 0.0146410465 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 mudflow.txt 53 0.0146410465 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 peshtigo_fire.txt 54 0.0146410465 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 thunder.txt 55 0.0146410465 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 impact_event.txt 56 0.013448661 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hurricane_sandy.txt 57 0.013444721 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 anvil.txt 58 0.012940979 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 coronal_mass_ejection.txt 59 0.012940979 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 solar_flare.txt 60 0.012940979 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 black_ice.txt 61 0.012810916 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cosmic_rays.txt 62 0.012810916 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 mariner_9.txt 63 0.012810916 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 sinkhole.txt 64 0.012810916 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 geomagnetic_storm.txt 65 0.012679519 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 water_vapor.txt 66 0.012679519 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 neptune.txt 67 0.012276891 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 national_weather_service.txt 68 0.012017782 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 saturn.txt 69 0.0110945795 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 supercell.txt 70 0.0110945795 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 high-pressure_area.txt 71 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 high_pressure_area.txt 72 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 jupiter.txt 73 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 limnic_eruption.txt 74 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 nova.txt 75 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 pair-instability_supernova.txt 76 0.010980785 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 famine.txt 77 0.010230742 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hurricane_katrina.txt 78 0.010230742 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 desert.txt 79 0.010014817 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 earth.txt 80 0.010014817 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 typhoon_haiyan.txt 81 0.00950964 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cumulus_cloud.txt 82 0.009150654 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 gilgamesh_flood_myth.txt 83 0.009150654 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 landslide.txt 84 0.009150654 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 tibetan_plateau.txt 85 0.009150654 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 weather.txt 86 0.009150654 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 tsunami.txt 87 0.009058686 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 volcano_eruption.txt 88 0.009058686 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hurricane_ike.txt 89 0.007764587 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 international_space_station.txt 90 0.007605483 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 carolina_hurricanes.txt 91 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 cyclone_winston.txt 92 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 firestorm.txt 93 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 hail.txt 94 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 in_situ.txt 95 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 livestock.txt 96 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 maya_peoples.txt 97 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 mojave_desert.txt 98 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 nitric_oxide.txt 99 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+8 Q0 snow_removal.txt 100 0.0073205233 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 new_york_city.txt 1 0.57816195 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 weather-related_cancellation.txt 2 0.30408883 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hurricane_sandy.txt 3 0.29415202 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 new_england.txt 4 0.24025697 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 arctic_oscillation.txt 5 0.14257006 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 weather_vane.txt 6 0.13514253 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 galveston_hurricane_of_1900.txt 7 0.1269201 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 dj_hurricane.txt 8 0.12569849 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 best-seller.txt 9 0.12013735 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hurricane_ike.txt 10 0.1185066 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 snowplow.txt 11 0.109286636 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 esquire_magazine.txt 12 0.10756463 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hamilton_musical.txt 13 0.10614818 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 south_america.txt 14 0.09474056 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 andrea_gail.txt 15 0.09301984 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 ice_storm.txt 16 0.09240124 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hurricane_katrina.txt 17 0.09171839 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 carolina_hurricanes.txt 18 0.08615024 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 weather_satellite.txt 19 0.08519861 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 dawson%27s_creek.txt 20 0.08419656 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 spring_season.txt 21 0.08405602 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 nor%27easter.txt 22 0.076598294 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cryoseism.txt 23 0.07441588 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cantonese.txt 24 0.07162721 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cape_cod.txt 25 0.07053445 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 the_barber_of_seville.txt 26 0.06959096 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 typhoon_haiyan.txt 27 0.06863372 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 land_of_oz.txt 28 0.06766395 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 1933_atlantic_hurricane_season.txt 29 0.0665517 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 pandemic.txt 30 0.06559086 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hurricane_cocktail.txt 31 0.06533884 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 florida.txt 32 0.06289044 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 louisiana.txt 33 0.06140759 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 nature_journal.txt 34 0.06051264 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hong_kong.txt 35 0.0602956 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 usd.txt 36 0.060275562 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 snowstorm.txt 37 0.059793822 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 winter_storm.txt 38 0.059793822 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 bermuda.txt 39 0.05858652 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cloud_seeding.txt 40 0.05783702 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 thirty_seconds_to_mars.txt 41 0.057479583 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 virginia.txt 42 0.05729468 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 storm_novel.txt 43 0.05635614 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 mexico.txt 44 0.055086665 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 minnesota.txt 45 0.052231498 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 sinkhole.txt 46 0.05170583 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 automobile.txt 47 0.05139442 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 haiti.txt 48 0.051122397 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cuba.txt 49 0.050658546 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 storm_surge.txt 50 0.049828187 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 rembrandt.txt 51 0.049317956 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 snow_removal.txt 52 0.048416175 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 acid_rain.txt 53 0.047755223 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 natural_gas.txt 54 0.04683713 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 china.txt 55 0.04664649 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 ilse_delange.txt 56 0.045873284 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 mississippi.txt 57 0.04507041 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 derecho.txt 58 0.04420793 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 cyclone_tracy.txt 59 0.04420361 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 corfu.txt 60 0.04401857 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 lahar.txt 61 0.043432247 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 uk.txt 62 0.043409236 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 united_kingdom.txt 63 0.043409236 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 firestorm.txt 64 0.042433873 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hawaii.txt 65 0.042151667 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 atlantic_hurricane.txt 66 0.0418995 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 bombing_of_dresden_in_world_war_ii.txt 67 0.041387968 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 earthquake.txt 68 0.040992692 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 bangladesh.txt 69 0.03913247 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 france.txt 70 0.038764097 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 english_language.txt 71 0.037485156 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 fire_whirl.txt 72 0.0345798 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 meteorological_service_of_new_zealand.txt 73 0.03418024 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 science_journal.txt 74 0.03403128 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 spring_break.txt 75 0.03348042 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 veracruz.txt 76 0.033392936 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 mars.txt 77 0.0331545 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 coastal_flood.txt 78 0.033055697 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 coastal_flooding.txt 79 0.033055697 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 iceland.txt 80 0.032888453 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 freezing_rain.txt 81 0.032874417 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 madagascar.txt 82 0.03223417 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 taipei_101.txt 83 0.032218665 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 rainforest.txt 84 0.031950876 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 rainforests.txt 85 0.031950876 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 blizzard.txt 86 0.031932257 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 foot_length.txt 87 0.031403676 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 pacific_ocean.txt 88 0.03136664 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 american_red_cross.txt 89 0.030528141 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 haboob.txt 90 0.03015545 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 sea_of_galilee.txt 91 0.03015545 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 temperate.txt 92 0.03015545 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 temperate_climate.txt 93 0.03015545 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 supercell.txt 94 0.030136503 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 history_of_tropical_cyclone_naming.txt 95 0.029833231 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 hurricane.txt 96 0.029060889 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 tropical_cyclone.txt 97 0.029060889 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 list_of_wettest_tropical_cyclones_by_country.txt 98 0.028807174 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 dew_point.txt 99 0.02817807 Lucene4.7.2_Unigram_Casefolding
+
+9 Q0 johnstown_flood.txt 100 0.028009718 Lucene4.7.2_Unigram_Casefolding
+
